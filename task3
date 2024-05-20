@@ -1,0 +1,7 @@
+name = str('Julia')
+age = int(19)
+is_student = bool(True)
+print('Name:', name)
+print('age:', age)
+print('new age:', age+1)
+print('is student:', is_student)
